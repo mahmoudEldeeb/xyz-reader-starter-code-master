@@ -21,7 +21,7 @@
 
     <item name="colorPrimary">@color/header</item>
         <item name="colorPrimaryDark">@color/orangeDark</item>
-        <item name="colorAccent">#f0a307</item>
+        <item name="colorAccent">@color/orangeAccent</item>
     </style>
 c
     <style name="Theme.Bacon.Detail">
